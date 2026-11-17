@@ -162,3 +162,5 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mej
 [![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
 Maria Guadalupe Casillas Ramos
+### Experiencia con los comando de git
+Aprendí a como descargar, clonar un repositorio desde la terminal, y como modificarlo y volverlo a subir a git, con los comandos que ya e utilizando anteriormente para GitHub. 
